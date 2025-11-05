@@ -27,7 +27,7 @@ sales_data_pipeline/
 
 ⚙️ Setup Instructions
 1️⃣ Clone the Repository
-git clone https://github.com/yourusername/sales_data_pipeline.git
+git clone https://github.com/ChannabasavAngadi/Divami.git
 cd sales_data_pipeline
 
 2️⃣ Install Dependencies
@@ -161,4 +161,5 @@ Integrate email/Slack alerts for daily summary
 Channabasav Angadi
 Data Engineer | Cloud & Data Engineer
 📧 [channuangadi077@gmail.com]
+
 🌐 [www.linkedin.com/in/channua](https://www.linkedin.com/in/channua/)
