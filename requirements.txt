@@ -1,0 +1,4 @@
+pandas==2.2.2
+numpy==1.26.4
+sqlite-utils==3.36
+streamlit
